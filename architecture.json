@@ -1,0 +1,77 @@
+{
+  "book_id": "soviet-dissident-epic-narrative-exile-diaspora",
+  "title": "The Sepulcher of Paper Ghosts",
+  "tagline": "In the shadow of the Soviet state, a dissident's buried words become the only map for a life in exile, stitching a new self from the scraps of the old.",
+  "target_words": 66862,
+  "actual_words": 66862,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Anatomy of Dissent",
+    "The Archive of the Self",
+    "The Geography of Exile",
+    "The Haunting of Memory"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Wound in the Wall",
+      "words": 5571
+    },
+    {
+      "ch": 2,
+      "title": "The Kitchen’s Tense Anticipation",
+      "words": 5571
+    },
+    {
+      "ch": 3,
+      "title": "A Climate of Fluorescent Light",
+      "words": 5571
+    },
+    {
+      "ch": 4,
+      "title": "The Blue Notebook Burial",
+      "words": 5571
+    },
+    {
+      "ch": 5,
+      "title": "The Ice as a Lens",
+      "words": 5571
+    },
+    {
+      "ch": 6,
+      "title": "Sepulcher for Paper Ghosts",
+      "words": 5571
+    },
+    {
+      "ch": 7,
+      "title": "A Cavity in the City’s Tooth",
+      "words": 5571
+    },
+    {
+      "ch": 8,
+      "title": "The Suture of the Train",
+      "words": 5571
+    },
+    {
+      "ch": 9,
+      "title": "A Scab Over the World",
+      "words": 5571
+    },
+    {
+      "ch": 10,
+      "title": "The Props of a Departed Life",
+      "words": 5571
+    },
+    {
+      "ch": 11,
+      "title": "The Vast, Grey Ledger",
+      "words": 5571
+    },
+    {
+      "ch": 12,
+      "title": "The Absence of Rustling",
+      "words": 5571
+    }
+  ]
+}
